@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Interfaces\obj\Debug\Interfaces.pdb

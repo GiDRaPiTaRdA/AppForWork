@@ -1,0 +1,98 @@
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\AppForWork2.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\AppForWork2.exe
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\AppForWork2.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.exe
+c:\users\admin\documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\AppForWork2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\AppForWork2\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\AppForWork2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\AppForWork2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\AppForWork2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\AppForWork2\obj\Debug\AppForWork2_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\AppForWork2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\AppForWork2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\AppForWork2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\obj\Debug\AppForWork2.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\AppForWork2\bin\Debug\AutoMapper.xml

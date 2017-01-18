@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Release\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Release\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Release\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Release\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Release\CarStationService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Release\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Release\CarStationService.pdb

@@ -1,0 +1,25 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\obj\Debug\CarStationService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\obj\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarStationService\obj\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Debug\CarStationService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarStationService\obj\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\obj\Debug\CarStationService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\obj\Debug\CarStationService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\obj\Debug\CarStationService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\CarStationService\bin\Debug\AutoMapper.xml

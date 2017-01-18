@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarParts\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarParts\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarParts\obj\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\CarParts\obj\Debug\CarParts.pdb
+C:\Users\Admin\Documents\visual studio 2015\Projects\AppForWork2\CarParts\obj\Debug\CarParts.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarParts\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarParts\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarParts\obj\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarParts\obj\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\CarParts\obj\Debug\CarParts.csprojResolveAssemblyReference.cache

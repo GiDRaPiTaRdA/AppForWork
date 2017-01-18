@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.Mef.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.Mef.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Release\Prism.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\obj\Release\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\obj\Release\Cars.pdb

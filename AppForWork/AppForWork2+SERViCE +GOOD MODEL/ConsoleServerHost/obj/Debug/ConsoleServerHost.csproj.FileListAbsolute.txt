@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Debug\ConsoleServerHost.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Debug\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Debug\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Debug\ConsoleServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Debug\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Debug\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\ConsoleServerHost.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\obj\Debug\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\obj\Debug\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\obj\Debug\ConsoleServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\ConsoleServerHost\bin\Debug\AutoMapper.xml

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\S1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\S1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\S1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\obj\Debug\S1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\obj\Debug\S1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\S1\obj\Debug\S1.pdb

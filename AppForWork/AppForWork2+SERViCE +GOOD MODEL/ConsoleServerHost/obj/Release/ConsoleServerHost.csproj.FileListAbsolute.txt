@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Release\ConsoleServerHost.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Release\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Release\ConsoleServerHost.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Release\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\bin\Release\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Release\ConsoleServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Release\ConsoleServerHost.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ConsoleServerHost\obj\Release\ConsoleServerHost.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\WcfService.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\WcfService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\WcfService.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\bin\AutoMapper.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\obj\Debug\IISServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\obj\Debug\WcfService.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\WcfService\obj\Debug\WcfService.pdb

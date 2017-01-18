@@ -1,0 +1,49 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\CarParts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\CarParts.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\bin\Debug\Prism.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\obj\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2\Cars\obj\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\bin\Debug\Prism.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\obj\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\obj\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.Wpf.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\Prism.Wpf.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\obj\Debug\Cars.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\obj\Debug\Cars.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE +GOOD MODEL\Cars\bin\Debug\AutoMapper.xml

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Cars.Vehicles" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Cars.Vehicles" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8080/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Cars.Vehicles.Parts" />
+  <xs:complexType name="Vehicle">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ItemIsSaved" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" type="tns:EVehicleType" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Cars.Vehicles.Parts" minOccurs="0" name="VehiclePartsList" nillable="true" type="q1:ArrayOfPart" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Vehicle" nillable="true" type="tns:Vehicle" />
+  <xs:simpleType name="EVehicleType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Car" />
+      <xs:enumeration value="Bus" />
+      <xs:enumeration value="Truck" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="EVehicleType" nillable="true" type="tns:EVehicleType" />
+  <xs:complexType name="Truck">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Vehicle">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Truck" nillable="true" type="tns:Truck" />
+  <xs:complexType name="Car">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Vehicle">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Car" nillable="true" type="tns:Car" />
+  <xs:complexType name="Bus">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Vehicle">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Bus" nillable="true" type="tns:Bus" />
+  <xs:complexType name="ArrayOfVehicle">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Vehicle" nillable="true" type="tns:Vehicle" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfVehicle" nillable="true" type="tns:ArrayOfVehicle" />
+</xs:schema>

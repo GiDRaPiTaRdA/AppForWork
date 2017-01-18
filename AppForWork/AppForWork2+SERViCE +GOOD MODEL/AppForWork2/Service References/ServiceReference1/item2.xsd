@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Cars.Vehicles.Parts" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Cars.Vehicles.Parts" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfPart">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Part" nillable="true" type="tns:Part" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPart" nillable="true" type="tns:ArrayOfPart" />
+  <xs:complexType name="Part">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="State" type="xs:int" />
+      <xs:element minOccurs="0" name="Type" type="tns:EPartTypes" />
+      <xs:element minOccurs="0" name="_state" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Part" nillable="true" type="tns:Part" />
+  <xs:simpleType name="EPartTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Body" />
+      <xs:enumeration value="Breaks" />
+      <xs:enumeration value="Chassis" />
+      <xs:enumeration value="Engine" />
+      <xs:enumeration value="Hidraulics" />
+      <xs:enumeration value="Rail" />
+      <xs:enumeration value="Salon" />
+      <xs:enumeration value="Wheels" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="EPartTypes" nillable="true" type="tns:EPartTypes" />
+</xs:schema>

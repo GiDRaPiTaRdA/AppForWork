@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AppForWork2+SERViCE\ClassLibrary\obj\Debug\ClassLibrary.pdb
